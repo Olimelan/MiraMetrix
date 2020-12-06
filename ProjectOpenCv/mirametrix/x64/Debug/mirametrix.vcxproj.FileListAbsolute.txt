@@ -1,0 +1,2 @@
+C:\Users\Olivier\Documents\Mirametrix\ProjectOpenCv\mirametrix\x64\Debug\mirametrix.exe
+C:\Users\Olivier\Documents\Mirametrix\ProjectOpenCv\mirametrix\x64\Debug\mirametrix.pdb
