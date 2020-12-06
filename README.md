@@ -8,7 +8,9 @@ Settings:
 
 Les includes doivent pointer vers la librairies de opencv sur votre ordinateur.
 
-Visual studio 2019 project properties configurations
+Open in Visual studio 2019 project
+
+Properties configurations
 - set environements variables and path in your computer to the correct opencv location
 - set solutions platform to x64
 - set vc++/include directories to the include file of opencv
