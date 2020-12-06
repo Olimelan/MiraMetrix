@@ -8,6 +8,10 @@ Settings:
 
 Les includes doivent pointer vers la librairies de opencv sur votre ordinateur.
 
+RUN: 
+go to ProjectOpenCv\mirametrix\x64\Release
+run the mirametrix.exe
+
 Open in Visual studio 2019 project
 
 Properties configurations
